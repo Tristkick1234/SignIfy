@@ -1,8 +1,5 @@
-# Signify
 
-
-
-## ![signify logo resized](https://github.com/Tristkick1234/Signify/assets/40550566/85b584d8-0b3d-4648-9315-6a157a00ef3e)
+# ![signify logo resized](https://github.com/Tristkick1234/Signify/assets/40550566/85b584d8-0b3d-4648-9315-6a157a00ef3e)
 
 
 ## About this Project
