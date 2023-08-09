@@ -8,5 +8,4 @@ This is the repository for Signify. The support code has a tool that has the abi
 
 
 
-------------------------------------------------------------------------------------------------------------------------------------
-Sample interface: https://www.figma.com/file/qQGbV7hStApGvYv4mlNDFX/Signify-Interface?type=design&node-id=0%3A1&mode=design&t=ifLdwGmhTMuuBf96-1
+
