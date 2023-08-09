@@ -1,7 +1,7 @@
 CNN AID [https://www.youtube.com/watch?v=YRhxdVk_sIs] [https://www.youtube.com/watch?v=Y1qxI-Df4Lk]
 MODEL VISUALIZATION SUPPORT [https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-visualizing-convolutional-neural-networks/#:~:text=To%20see%20what%20our%20neural,a%20face%20in%20the%20image.]
 DATASET [https://www.kaggle.com/datasets/datamunge/sign-language-mnist]
-REFERENCE FOR BASE MODEL & OPENCV [https://medium.com/@abhkmr30/sign-language-mnist-problem-american-sign-language-48896ea960e0] 
+REFERENCE FOR BASE MODEL & OPENCV [https://towardsdatascience.com/sign-language-recognition-with-advanced-computer-vision-7b74f20f3442] 
 
 pip install opencv-python
 pip install numpy
